@@ -1,0 +1,4 @@
+item: "slimeball"
+permission:
+  enabled: false
+  name: "handglider.use"

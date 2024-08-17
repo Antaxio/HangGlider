@@ -1,0 +1,6 @@
+name: HandGlider
+author: Antaksio
+api: [5.0.0]
+main: Antaksio\HandGlider\Main
+version: 1.0.0
+description: Permet de flotter un handGlider quoi t con ou quoi frr
